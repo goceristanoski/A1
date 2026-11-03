@@ -6,6 +6,7 @@ date: "2026-11-03"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(fig.align ="right")
 ```
 
 ## R Markdown
